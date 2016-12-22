@@ -1,7 +1,7 @@
 body {
   color: #8d8d83;
   background-color:#f3f48d;
-  font-family: "Gabriola",helvetica, "Times New Roman";
+  font-family: "Gabriola","cambria", "helvetica", "Times New Roman";
   border-style: double;
   border-color: #92948b;
   border-width: 5px;
@@ -26,7 +26,7 @@ img {
 }
 
 a {
-  color:white;
+  color:#f88699;
   text-decoration:none;
 }
 
