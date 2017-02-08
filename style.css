@@ -32,6 +32,15 @@ a {
   text-decoration:none;
 }
 
+#content {
+  float: right ;
+  width: 80% ;
+}
+#navbar {
+  float: right;
+  width: 20%;
+}
+
 /**
  * Top Bar
  */
