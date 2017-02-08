@@ -1,5 +1,5 @@
 body {
-  color: #8d8d83;
+  color: #f88699;
   background-color: #C0C0C0;
   font-family: "gabriola", "cambria", "helvetica", "Times New Roman";
   border-style: double;
@@ -7,7 +7,7 @@ body {
   border-width: 5px;
 }
 
-//colors to consider lavander:#a89ab6 light green:#abdd85
+//colors to consider lavander:#a89ab6 light green:#abdd85 pink#f88699 light yellow#f3f48d
 
 h1 {
   text-decoration: underline;
