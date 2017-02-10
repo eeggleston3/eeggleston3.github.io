@@ -145,3 +145,6 @@ ul#navigation {
  left:0;
  width: 100%;
 }
+table.pictures {
+  border: none;
+}
