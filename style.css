@@ -45,7 +45,7 @@ table.about th {
   background-color: #f88699;
   color: white;
 }  
-table.about tr:nth-child(odd) {background-color: #ffe8eb}
+table.about tr:nth-child(odd) {background-color: #f88699}
 table.about tr:nth-child(even) {background-color: white}
 
 
