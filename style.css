@@ -48,7 +48,10 @@ table.about th {
 table.about tr:nth-child(odd) {background-color: #f88699}
 table.about tr:nth-child(even) {background-color: white}
 
-
+#textBox {
+  border-radius: 25px;
+  
+}  
 /**
  * Top Bar
  */
