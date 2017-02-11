@@ -32,6 +32,11 @@ a {
   text-decoration:none;
 }
 
+#content2 {
+ float: left;
+ width: 60%;
+}
+
 #content {
   float: left;
   width: 60% ;
