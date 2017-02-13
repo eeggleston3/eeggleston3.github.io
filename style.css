@@ -5,6 +5,7 @@ body {
   border-style: double;
   border-color: #92948b;
   border-width: 5px;
+  border-bottom: none;
 }
 
 //colors to consider lavander:#a89ab6 light green:#abdd85 pink#f88699 light yellow#f3f48d
