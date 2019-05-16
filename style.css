@@ -7,8 +7,6 @@ body {
   border-width: 5px;
 }
 
-//colors to consider lavander:#a89ab6 light green:#abdd85 pink#f88699 light yellow#f3f48d
-
 h1 {
   text-decoration: underline;
   text-decoration: overline;
@@ -78,7 +76,7 @@ ul.topnav li a {
     font-size: 25px;
 }
 
-ul.topnav li a:hover {background-color: #fccfd6;}
+ul.topnav li a:hover {background-color: #00ADEF;}
 
 ul.topnav li.icon {display: none;}
 
