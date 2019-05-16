@@ -1,10 +1,7 @@
 body {
   color: #000000;
-  background-color: #C0C0C0;
+  background-color: #d8d8d8;
   font-family: "gabriola", "cambria", "helvetica", "Times New Roman";
-  border-style: double;
-  border-color: #92948b;
-  border-width: 5px;
 }
 
 h1 {
@@ -30,27 +27,6 @@ a {
   text-decoration:none;
 }
 
-#content2 {
- float: left;
- width: 60%;
-}
-
-#content {
-  float: left;
-  width: 60% ;
-  border-radius: 25px;
-}
-#navbar {
-  float: right;
-  width: 40%;
-}
-
-table.about th {
-  background-color: #fccfd6;
-  color: black;
-}  
-table.about tr:nth-child(odd) {background-color: #fccfd6}
-table.about tr:nth-child(even) {background-color: white}
  
 /**
  * Top Bar
@@ -107,18 +83,7 @@ ul.topnav li.icon {display: none;}
 }
 
 
-/**
- * Bottom Bar
- */
-.MainContainer {
-    width: 1200px;
-    background-color: #0066CC;
-}
-.MenuContainer {
-    height: 70px;
-    bottom:0;
-    left:0;
-}
+
 ul#navigation {
     height: 30px;
     list-style: none;
@@ -145,9 +110,6 @@ ul#navigation li.last {
     margin-left: 0;
 }
 
-html, body {
- height: 100%;
-}
 
 ul#navigation {
  background-color: #92948b;
