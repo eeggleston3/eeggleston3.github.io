@@ -44,7 +44,7 @@ ul.topnav {
  width: 100%;;
 }
 
-ul.topnav li {float: left;}
+ul.topnav li {float: center;}
 
 ul.topnav li a {
     display: inline-block;
