@@ -1,6 +1,6 @@
 body {
   color: #000000;
-  background-color: #fdfdfd;
+  background-color: #d8d8d8;
   font-family: "gabriola", "cambria", "helvetica", "Times New Roman";
 }
 
@@ -33,18 +33,14 @@ a {
  */
 
 ul.topnav {
- list-style-type: none;
- margin: 0;
- padding: 0;
- overflow: hidden;
- background-color: #ff03db;
- position: fixed;
- bottom: 0;
- left:0;
- width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #92948b;
 }
 
-ul.topnav li {float: center;}
+ul.topnav li {float: left;}
 
 ul.topnav li a {
     display: inline-block;
@@ -86,22 +82,21 @@ ul.topnav li.icon {display: none;}
   }
 }
 
+
+
 ul#navigation {
+    height: 30px;
     list-style: none;
     margin: 0;
     padding: 0;
-    height: 30px;
     padding-right: 10px;
     border: 1px solid #ccc;
     border-width: 1px 0;    
     text-align: center;
     font-size: 20px;
     font-family: "Gabriola","cambria", "helvetica", "Times New Roman";
-    background-color: #ff03db;
-    position: fixed;
-    bottom: 0;
-    left:0;
-    width: 100%;
+    color: #f88699;
+    background-color: #FFF;
 }
 ul#navigation li {
     display: inline;
@@ -115,6 +110,14 @@ ul#navigation li.last {
     margin-left: 0;
 }
 
+
+ul#navigation {
+ background-color: #ff03db;
+ position: fixed;
+ bottom: 0;
+ left:0;
+ width: 100%;
+}
 table.pictures {
   border: 0px;
   margin-right: 50px;
