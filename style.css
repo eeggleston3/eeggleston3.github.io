@@ -38,8 +38,7 @@ ul.topnav {
     background-color: #c4c4c4;
 }
 
-ul.topnav li {float: none;
-    width: 50%}
+ul.topnav li {float: none;}
 
 ul.topnav li a {
     display: inline-block;
@@ -48,7 +47,7 @@ ul.topnav li a {
     padding: 20px 22px;
     text-decoration: none;
     transition: 0.3s;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 ul.topnav li a:hover {background-color: #00ADEF;}
@@ -92,7 +91,7 @@ ul#navigation {
     border: 1px solid #ccc;
     border-width: 1px 0;    
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     font-family: "cambria", "helvetica", "Times New Roman";
     color: #f88699;
     background-color: #FFF;
