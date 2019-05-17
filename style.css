@@ -1,7 +1,7 @@
 body {
   color: #000000;
-  background-color: #d8d8d8;
-  font-family: "gabriola", "cambria", "helvetica", "Times New Roman";
+  background-color: #f9f9f9;
+  font-family: "cambria", "helvetica", "Times New Roman";
 }
 
 h1 {
@@ -35,10 +35,11 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #92948b;
+    background-color: #c4c4c4;
 }
 
-ul.topnav li {float: left;}
+ul.topnav li {float: none;
+    width: 50%}
 
 ul.topnav li a {
     display: inline-block;
