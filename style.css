@@ -11,6 +11,15 @@ h1 {
   border-color: #00ADEF;
 }
 
+j {
+  color: #000000;
+  border-style: double;
+  border-width: 5px;
+  border-color: #00ADEF;
+  font-size: 2em;
+  font-weight: bolder;
+}
+
 .center {
   text-align: center;
  
